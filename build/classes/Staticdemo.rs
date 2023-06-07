@@ -1,0 +1,3 @@
+Staticdemo
+Test
+Static
